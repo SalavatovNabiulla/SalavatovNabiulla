@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T19:30:32.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="6enfAhh5KNp_SPXqyOFs" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T19:34:37.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="1LAjcVR8iZphfw64xKMW" version="22.1.7" type="github">
   <diagram name="Page-1" id="H_1aUF9YoPBZOVjen3y8">
-    <mxGraphModel dx="717" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="trHTC3H61IdcHDAHbdsG-24" value="&lt;div&gt;Проект &quot;Консалтинг&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Деятельность:&lt;/div&gt;&lt;div&gt;- Консультация по всевозможным сельскохозяйственным вопросам&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ключевые бизнес процессы:&lt;/div&gt;&lt;div&gt;- Реализация услуг&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="560" y="880" width="360" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="trHTC3H61IdcHDAHbdsG-25" value="&lt;div&gt;Проект &quot;Садстрой+&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Деятельность:&lt;/div&gt;&lt;div&gt;- Постройка садов под ключ, разработка архитектуры и проектов различных садов, анализ местности&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ключевые бизнес процессы:&lt;/div&gt;&lt;div&gt;- Закупка посадочного материала у поставщиков&lt;/div&gt;&lt;div&gt;- Закупка сельскохозяйственных услуг с использованием спец. техники у поставщиков&lt;/div&gt;&lt;div&gt;- Закупка агро.химикатов у поставщиков&lt;/div&gt;&lt;div&gt;- Закупка консалтинговых услуг у поставщиков&lt;/div&gt;&lt;div&gt;- Реализация услуг по разработке архитектуры и проекта сада&lt;/div&gt;&lt;div&gt;- Реализация услуги по анализу местности&lt;/div&gt;&lt;div&gt;- Реализация услуги постройки сада под ключ&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="960" y="880" width="360" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
