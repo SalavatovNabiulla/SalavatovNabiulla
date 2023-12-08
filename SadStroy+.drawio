@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T19:15:11.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="OVCDTNMeQ9ptegKmxSN6" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T19:16:10.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="tHe1yzhevsw1VIYP5Tt6" version="22.1.7" type="github">
   <diagram name="Page-1" id="H_1aUF9YoPBZOVjen3y8">
     <mxGraphModel dx="1593" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="trHTC3H61IdcHDAHbdsG-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="170" width="590" height="790" as="geometry" />
         </mxCell>
-        <mxCell id="trHTC3H61IdcHDAHbdsG-1" value="Питомник" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="trHTC3H61IdcHDAHbdsG-1" value="&lt;div&gt;Проект&amp;nbsp;&lt;/div&gt;&lt;div&gt;&quot;Саженцы&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trHTC3H61IdcHDAHbdsG-2" value="Сад" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="385" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="trHTC3H61IdcHDAHbdsG-3" value="Химия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trHTC3H61IdcHDAHbdsG-3" value="&lt;div&gt;Проект&lt;/div&gt;&lt;div&gt;&quot;Химия&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trHTC3H61IdcHDAHbdsG-4" value="СПОК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -25,8 +25,8 @@
         <mxCell id="trHTC3H61IdcHDAHbdsG-6" value="Консалтинговые услуги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="trHTC3H61IdcHDAHbdsG-7" value="МТС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="690" width="120" height="60" as="geometry" />
+        <mxCell id="trHTC3H61IdcHDAHbdsG-7" value="&lt;div&gt;Проект&amp;nbsp;&lt;/div&gt;&lt;div&gt;&quot;Спец. техника&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trHTC3H61IdcHDAHbdsG-8" value="Союз садоводов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="585" width="120" height="60" as="geometry" />
