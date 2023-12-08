@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T19:22:18.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Q3HSISpDILKjSoAiRtW2" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T19:24:15.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="AA9SMWyiHrr1Qtfymm-T" version="22.1.7" type="github">
   <diagram name="Page-1" id="H_1aUF9YoPBZOVjen3y8">
     <mxGraphModel dx="1247" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,11 @@
         <mxCell id="trHTC3H61IdcHDAHbdsG-11" value="&lt;div&gt;Проект&lt;/div&gt;&lt;div&gt;&quot;Садстрой+&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="trHTC3H61IdcHDAHbdsG-19" value="&lt;div&gt;Проект &quot;Химия&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Деятельность:&lt;/div&gt;&lt;div&gt;- Оптовая и розничная реализация&lt;/div&gt;&lt;div&gt;агрономических химикатов&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ключевые бизнес процессы:&lt;/div&gt;&lt;div&gt;- Закупка у поставщиков&lt;/div&gt;&lt;div&gt;- Хранение и транспортировка между внутренними складами&lt;/div&gt;&lt;div&gt;- Оптовая реализация&lt;/div&gt;&lt;div&gt;- Розничная реализация&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="trHTC3H61IdcHDAHbdsG-19" value="&lt;div&gt;Проект &quot;Химия&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Деятельность:&lt;/div&gt;&lt;div&gt;- Оптовая и розничная перепродажа&lt;/div&gt;&lt;div&gt;агрономических химикатов&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ключевые бизнес процессы:&lt;/div&gt;&lt;div&gt;- Закупка у поставщиков&lt;/div&gt;&lt;div&gt;- Хранение и транспортировка между внутренними складами&lt;/div&gt;&lt;div&gt;- Оптовая реализация&lt;/div&gt;&lt;div&gt;- Розничная реализация&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="160" y="440" width="360" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="trHTC3H61IdcHDAHbdsG-20" value="&lt;div&gt;Проект &quot;Саженцы&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Деятельность:&lt;/div&gt;&lt;div&gt;- Производство посадочных материалов для дальнейшей оптовой и розничной реализации&lt;/div&gt;&lt;div&gt;- Оптовая и розничная перепродажа посадочных материалов&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ключевые бизнес процессы:&lt;/div&gt;&lt;div&gt;- Закупка сырья у поставщиков&lt;/div&gt;&lt;div&gt;- Закупка готового посадочного материала у поставщиков&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Хранение и транспортировка между внутренними складами&lt;/div&gt;&lt;div&gt;- Оптовая реализация&lt;/div&gt;&lt;div&gt;- Розничная реализация&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="635" y="450" width="360" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
