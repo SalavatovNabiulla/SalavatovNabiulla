@@ -8,4 +8,5 @@
 <div align = "center">
 	<b><i>Общаемся, делимся мыслями, разработками и полезными материалами!</i></b>
 </div>
+<a href="https://github.com/stars/SalavatovNabiulla/lists/1c">Мои 1С проекты</a>
 <hr/>
