@@ -1,5 +1,26 @@
 <hr/>
 <div align="center">
+  <h3>Мои проекты (Списки репозиториев)</h3>
+  <table align="center">
+    <tr>
+      <td align="center" valign="top" style="padding: 0 12px;">
+        <a href="https://github.com/stars/SalavatovNabiulla/lists/1c" target="_blank" rel="noopener">
+          <img src="1c_logo.png" width="64" height="64" alt="1С" style="display: block;"/>
+        </a>
+        <h4 style="font-size: 14px;">1C</h4>
+      </td>
+      <td align="center" valign="top" style="padding: 0 12px;">
+        <a href="https://github.com/stars/SalavatovNabiulla/lists/python" target="_blank" rel="noopener">
+          <img src="python_logo.png" width="64" height="64" alt="Python" style="display: block;"/>
+        </a>
+        <h4 style="font-size: 14px;">Python</h4>
+      </td>
+    </tr>
+  </table> 
+</div>
+
+<hr/>
+<div align="center">
   <h3>Вступайте в открытый чат по 1С Разработке</h3>
   <table align="center">
     <tr>
@@ -23,4 +44,4 @@
 </div>
 <hr/>
 
-[Мои 1С проекты](https://github.com/stars/SalavatovNabiulla/lists/1c)
+
