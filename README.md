@@ -5,7 +5,7 @@
     <tr>
       <td align="center" valign="top" style="padding: 0 12px;">
         <a href="https://t.me/grokking_1c" target="_blank" rel="noopener">
-          <img src="./assets/telegram_logo.png" width="64" height="64" alt="Telegram" style="display: block;"/>
+          <img src="telegram_logo.png" width="64" height="64" alt="Telegram" style="display: block;"/>
         </a>
         <h6 style="margin: 6px 0 0; font-size: 14px;">Telegram</h6>
       </td>
