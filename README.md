@@ -5,13 +5,13 @@
     <tr>
       <td align="center" valign="top" style="padding: 0 12px;">
         <a href="https://t.me/grokking_1c" target="_blank" rel="noopener">
-          <img src="./assets/telegram_icon-icons.com_72055.png" width="64" height="64" alt="Telegram" style="display: block;"/>
+          <img src="./assets/telegram_logo.png" width="64" height="64" alt="Telegram" style="display: block;"/>
         </a>
         <h6 style="margin: 6px 0 0; font-size: 14px;">Telegram</h6>
       </td>
       <td align="center" valign="top" style="padding: 0 12px;">
         <a href="https://max.ru/join/zXC-KwzTTnPf4s6FXZjvCHvbA7IUYFZ1b2DV2xUgFrs" target="_blank" rel="noopener">
-          <img src="max-messenger-color-icon.png" width="64" height="64" alt="Max" style="display: block;">
+          <img src="max_logo.png" width="64" height="64" alt="Max" style="display: block;">
         </a>
         <h6 style="margin: 6px 0 0; font-size: 14px;">Max</h6>
       </td>
