@@ -2,7 +2,7 @@
 <div align = "center">
 	<h3>Вступайте в открытый чат по 1С Разработке</h3>
 	<a href="https://t.me/grokking_1c">
-		<img src="[https://icon-icons.com/downloadimage.php?id=72055&root=923/PNG/256/&file=telegram_icon-icons.com_72055.png]](https://icon-icons.com/ru/authors/941-gaurav-ghongde)" alt="Telegram" width="80" height="80" />
+		<img src="https://drive.google.com/drive-viewer/AKGpihYRn0R0fbI1plVw_t8vAvFHXYI2iYhZIF7B0URVixJYBay0JWNdYgDWVz_kIVFvwdaB_s1bNdZqIsydcME0tUyO3hoa7tZE3NU=s2560" />
 	</a>
 </div>
 <div align = "center">
