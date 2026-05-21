@@ -5,13 +5,13 @@
     <tr>
       <td align="center" valign="top" style="padding: 0 12px;">
         <a href="https://t.me/grokking_1c" target="_blank" rel="noopener">
-          <img src="https://drive.google.com/drive-viewer/AKGpihYRn0R0fbI1plVw_t8vAvFHXYI2iYhZIF7B0URVixJYBay0JWNdYgDWVz_kIVFvwdaB_s1bNdZqIsydcME0tUyO3hoa7tZE3NU=s2560" width="64" height="64" alt="Telegram" style="display: block;"/>
+          <img src="./assets/telegram_icon-icons.com_72055.png" width="64" height="64" alt="Telegram" style="display: block;"/>
         </a>
         <h6 style="margin: 6px 0 0; font-size: 14px;">Telegram</h6>
       </td>
       <td align="center" valign="top" style="padding: 0 12px;">
         <a href="https://max.ru/join/zXC-KwzTTnPf4s6FXZjvCHvbA7IUYFZ1b2DV2xUgFrs" target="_blank" rel="noopener">
-          <img src="https://drive.google.com/drive-viewer/AKGpihYRn0R0fbI1plVw_t8vAvFHXYI2iYhZIF7B0URVixJYBay0JWNdYgDWVz_kIVFvwdaB_s1bNdZqIsydcME0tUyO3hoa7tZE3NU=s2560" width="64" height="64" alt="Max" style="display: block;">
+          <img src="max-messenger-color-icon.png" width="64" height="64" alt="Max" style="display: block;">
         </a>
         <h6 style="margin: 6px 0 0; font-size: 14px;">Max</h6>
       </td>
