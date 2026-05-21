@@ -7,13 +7,13 @@
         <a href="https://t.me/grokking_1c" target="_blank" rel="noopener">
           <img src="telegram_logo.png" width="64" height="64" alt="Telegram" style="display: block;"/>
         </a>
-        <h6 style="margin: 6px 0 0; font-size: 14px;">Telegram</h6>
+        <h4 style="font-size: 14px;">Telegram</h4>
       </td>
       <td align="center" valign="top" style="padding: 0 12px;">
         <a href="https://max.ru/join/zXC-KwzTTnPf4s6FXZjvCHvbA7IUYFZ1b2DV2xUgFrs" target="_blank" rel="noopener">
           <img src="max_logo.png" width="64" height="64" alt="Max" style="display: block;">
         </a>
-        <h6 style="margin: 6px 0 0; font-size: 14px;">Max</h6>
+        <h4 style="margin: 6px 0 0; font-size: 14px;">Max</h4>
       </td>
     </tr>
   </table> 
